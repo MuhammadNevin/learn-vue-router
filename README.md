@@ -4,7 +4,7 @@
 
 This project is a collection of interactive examples and exercises built with Vue 3, Vue Router, and Vite. It covers essential routing concepts through hands-on components and examples, from basic navigation to advanced nested routes and route guards.
 
-## What is Vue Router and Why Do We Need It?
+## ❓ What is Vue Router and Why Do We Need It?
 
 Vue Router is the official routing library for Vue.js, enabling you to build single-page applications (SPA) with navigation between different views or pages—without reloading the browser. With Vue Router, you can:
 - Define multiple routes and map them to components
