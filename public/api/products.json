@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 14 Pro",
+        "price": 999,
+        "description": "Apple's latest flagship smartphone with advanced features."
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S23",
+        "price": 899,
+        "description": "High-performance Android phone with a stunning display."
+    },
+    {
+        "id": 3,
+        "name": "Google Pixel 7",
+        "price": 799,
+        "description": "Google's premium phone with excellent camera quality."
+    },
+    {
+        "id": 4,
+        "name": "OnePlus 11",
+        "price": 749,
+        "description": "Fast and smooth Android phone with great performance."
+    },
+    {
+        "id": 5,
+        "name": "Xiaomi Mi 13",
+        "price": 699,
+        "description": "Affordable flagship phone with impressive specs."
+    },
+    {
+        "id": 6,
+        "name": "Sony Xperia 1 IV",
+        "price": 1199,
+        "description": "Premium phone with a focus on photography and media."
+    },
+    {
+        "id": 7,
+        "name": "Huawei P50 Pro",
+        "price": 999,
+        "description": "High-end phone with cutting-edge camera technology."
+    },
+    {
+        "id": 8,
+        "name": "Motorola Edge 30 Ultra",
+        "price": 899,
+        "description": "Stylish phone with a powerful processor and great display."
+    },
+    {
+        "id": 9,
+        "name": "Asus ROG Phone 6",
+        "price": 1099,
+        "description": "Gaming phone with top-notch performance and cooling system."
+    },
+    {
+        "id": 10,
+        "name": "Realme GT 2 Pro",
+        "price": 649,
+        "description": "Affordable flagship with a focus on performance and design."
+    }
+]
